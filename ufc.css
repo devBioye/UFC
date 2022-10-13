@@ -1,0 +1,246 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    color: #FFFFFF;
+    background-image: url('josh-eckstein-nkUioaswtvM-unsplash.jpg');
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100% 90%;
+    padding: 180px 0;
+    text-align: center;
+}
+.feature {
+    display: inline-block;
+    font-size: 30px;
+}
+.icon_feature{
+    margin-right: 130px;
+}
+section{
+    padding: 40px 0;
+    text-align: center;
+}
+.navigator{
+    margin-left: 200px;
+    display: inline-block;
+}
+.btn {
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    background: transparent;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 16px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #468468;
+}
+.header_container{
+    position: relative;
+    top: -180px;
+}
+.name_title{
+    font-size: 80px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    left: 9%;
+    top: 20px;
+}
+/* .container_name{
+    
+    
+} */
+.section_one{
+    display: inline-block;
+    border-radius: 30px;
+}
+.section_one_i{
+    position: relative;
+    bottom: 50px;
+    font-size: 30px;
+    color: coral;
+}
+.section_one_p{
+    display: inline-block;
+    font-size: 25px;
+    position: relative;
+    right: 2.7%;
+    color: navy;
+}
+footer {
+    background: #353535;
+    padding: 32px 0;
+    text-align: center;
+    color: #868686;
+    font-size: 12px;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+footer li a {
+    padding: 6px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #c3c3c3;
+}
+footer li a:hover {
+    color: white;
+}
+.section_table{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 32%;
+    text-align: center;
+    /* border: 1px solid; */
+}
+.section_week_activity{
+    font-size: 40px;
+}
+table, td, th{
+    /* border-color: aqua; */
+    border: 1px solid;
+}
+.section_programme{
+    background-color: darkgrey;
+    width: 40%;
+    position: relative;
+    left: 31.5%;
+}
+.section_programme_p{
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 25px;
+}
+.section_two_button{
+    display: inline-block;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.section_two_button:hover{
+    color: blue;
+}
+.section_two_details{
+    width: 40%;
+    height: 50%;
+    position: relative;
+    left: 31.5%;
+    font-size: 18px;
+    background-color: white;
+    
+}
+.section_programmes{
+    font-size: 30px;
+}
+.sermon_one_div{
+    width: 80%;
+    position: relative;
+    left: 12%;
+    /* height: 50%; */
+    /* text-align: center; */
+}
+.sermon_one_p{
+    font-weight: bold;
+    text-align: start;
+    font-size: 22px;
+}
+.section_sermon_strong{
+    font-size: 35px;
+
+}
+.section_sermon_cite{
+    font-size: 11px;
+}
+.social_a{
+    margin-right: 10px;
+    font-size: 17px;
+    color: blue;
+    font-weight: 500;
+    font-size: 20px;
+    background: transparent;
+    cursor: pointer;
+    text-decoration: none;
+}
+.section_p{
+    font-size: 20px;
+}
+.section_contact{
+    font-size: 30px;
+
+
+}
+.section_about_p{
+    font-size: 35px;
+}
+.section_about{
+     font-size: 40px;
+}
+.donate_a{
+    display: inline-block;
+    color: white;
+    background: rgb(2, 104, 2);
+    font-weight: 500;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 80px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.donate_a:hover{
+    background: rgb(185, 235, 185);
+}
+.section_donate_p{
+    font-size: 30px;
+    font-weight: bold;
+}
+.section_donate_cite{
+    font-size: 20px;
+    font-weight: bold;
+}
+.section_two_pastor_p{
+    display: inline-block;
+    position: relative;
+    bottom: 60px;
+    font-size: 25px;
+    color: rgb(112, 110, 110);
+}
+
+.section_two_pastor_img{
+    display: inline-block;
+    border-radius: 30px;
+}
+.section_two_pastor_1{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    position: relative;
+    /* left: 170px; */
+}
+.section_two_pastor_2{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    position: relative;
+    left: -300px;
+}
+.section_two_pastor_3{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    position: relative;
+    /* left: 170px; */
+}
+.account_info{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
